@@ -1,4 +1,4 @@
-Testing React Applications
-frontendmasters
-https://coursehunters.net/course/testirovanie-react-prilozheniy
-Duration 04:11:22
+React Testing For Beginners
+leveluptutorials
+https://coursehunters.net/course/testirovanie-react-dlya-nachinayushchih
+Duration 03:58:2
