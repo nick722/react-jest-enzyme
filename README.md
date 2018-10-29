@@ -1,4 +1,4 @@
-Testing React Applications
-frontendmasters
-https://coursehunters.net/course/testirovanie-react-prilozheniy
-Duration 04:11:22
+React - Mastering Test Driven Development
+udemy
+https://coursehunters.net/course/react-razrabotka-cherez-testirovanie-tdd
+Duration 04:34:10
