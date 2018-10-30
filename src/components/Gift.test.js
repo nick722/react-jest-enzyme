@@ -27,4 +27,17 @@ describe('Gift', () => {
             expect(gift.state().person).toEqual(person);
         });
     });
+
+    describe('when typein into the present input', () => {
+       const present = 'Dress';
+
+       beforeEach(() => {
+           gift.find('.input-present').simulate('change', { target: { value: present } });
+       });
+
+       it('update the present in `state`', () => {
+           expect(gift.state().present).toEqual(present);
+       });
+    });
+
 });
