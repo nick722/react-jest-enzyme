@@ -6,3 +6,7 @@ export const setBalance = balance => {
     balance
   };
 };
+
+export const deposit = deposit => {
+  return {};
+};
