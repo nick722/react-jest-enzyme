@@ -6,7 +6,10 @@
     "react": "^16.6.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-redux": "^5.1.0",
+    "react-scripts": "2.0.5",
+    "redux": "^4.0.1",
+    "sfcookies": "^1.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,6 +36,7 @@
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "jest-cli": "^20.0.4",
-    "prettier": "1.14.3"
+    "prettier": "1.14.3",
+    "react-test-renderer": "^16.6.0"
   }
 }
